@@ -185,4 +185,7 @@ p {
         position: static;
         transform: rotate(0);
      }
+     .nav-item{
+         font-size: 2rem;
+     }
  }
